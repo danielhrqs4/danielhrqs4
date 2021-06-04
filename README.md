@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**danielhrqs4/danielhrqs4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Henriques, I'm from Brazil 🇧🇷
+I'm a graduate student at IT from Universidade Federal do Rio Grande do Norte (UFRN).
 
-Here are some ideas to get you started:
+passionate about :
+💻 programming 
+🏀 basketball
+🎮 CSGO
+ 
+### 🌎 "Saber chegar e sair"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍From Natal-RN
+
+Reach me out 👇
+[![Gmail Badge](https://img.shields.io/badge/-danielhqrs4@yahoo.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielhrqs4@yahoo.com)](mailto:diego.schell.f@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Henriques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielhrqs4/)
