@@ -2,7 +2,9 @@
 
 My name is Daniel Henriques, I'm from Brazil :brazil:.
 <br>
-I'm a graduate student at IT from Universidade Federal do Rio Grande do Norte (UFRN).
+I am an IT student at the Federal University of Rio Grande do Norte (UFRN).
+<br>
+Currently learning about web development and c++.
 <br><br>
 passionate about :
 <br>
