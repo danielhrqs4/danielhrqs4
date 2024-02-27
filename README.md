@@ -4,15 +4,9 @@ My name is Daniel Henriques, I'm from Brazil :brazil:.
 <br>
 I am an IT student at the Federal University of Rio Grande do Norte (UFRN).
 <br>
-Currently learning about web development and c++.
+Currently learning about Java Spring and mobile development.
 <br><br>
-passionate about :
-<br>
-💻 programming
-<br> 
-🏀 basketball
-<br>
-🎮 CSGO
+
  
 ### 🌎 "Saber chegar e sair"
 <br>
