@@ -15,4 +15,9 @@ Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Henriques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/danielhrqs4/) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danihenrif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danihenrif&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danihenrif&layout=compact&&langs_count=8"/>
+</div>
