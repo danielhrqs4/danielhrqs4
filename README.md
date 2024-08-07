@@ -7,11 +7,6 @@ I am an IT student at the Federal University of Rio Grande do Norte (UFRN).
 Currently learning about Java Spring and mobile development.
 <br><br>
 
- 
-### 🌎 "Saber chegar e sair"
-<br>
-
-
 📍 From Natal-RN
 
 Reach me out 👇
